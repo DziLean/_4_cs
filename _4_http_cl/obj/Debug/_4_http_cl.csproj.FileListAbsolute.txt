@@ -1,0 +1,6 @@
+c:\users\dzi\documents\visual studio 2012\Projects\_4_http_cl\_4_http_cl\bin\Debug\_4_http_cl.exe.config
+c:\users\dzi\documents\visual studio 2012\Projects\_4_http_cl\_4_http_cl\bin\Debug\_4_http_cl.exe
+c:\users\dzi\documents\visual studio 2012\Projects\_4_http_cl\_4_http_cl\bin\Debug\_4_http_cl.pdb
+c:\users\dzi\documents\visual studio 2012\Projects\_4_http_cl\_4_http_cl\obj\Debug\_4_http_cl.csprojResolveAssemblyReference.cache
+c:\users\dzi\documents\visual studio 2012\Projects\_4_http_cl\_4_http_cl\obj\Debug\_4_http_cl.exe
+c:\users\dzi\documents\visual studio 2012\Projects\_4_http_cl\_4_http_cl\obj\Debug\_4_http_cl.pdb
